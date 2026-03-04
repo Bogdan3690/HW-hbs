@@ -10,3 +10,5 @@ const markup = templateFn({ items:products })
 
 container.innerHTML = markup;
 console.log(markup);
+
+console.log(products);
